@@ -45,9 +45,9 @@
 
 ## 二、前后端项目地址
 
-后端项目地址：  https://gitee.com/peach_pony/llm_flow_server.git
+后端项目地址：  [pony800/llm_flow_server: AI agent process building platform - server](https://github.com/pony800/llm_flow_server)
 
-前端项目地址： https://gitee.com/peach_pony/llm_flow_web.git
+前端项目地址： [pony800/llm_flow_web: AI agent process building platform - web](https://github.com/pony800/llm_flow_web)
 
 ## 三、使用说明
 
